@@ -2,5 +2,13 @@
 void main()
 {
   cout<<"Welcom";
-  }
+}
+
+double square(double innum)
+{
+  double outnum;
+  outnum=innum*innum;
+}
+  
+  
   
